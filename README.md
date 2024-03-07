@@ -8,7 +8,7 @@
 - Metodología Scrum
 
 ## 🌐 Redes Sociales:
-[Facebook](https://www.facebook.com/profile.php?id=61553926479601){:target="_blank"} [Instagram](https://www.instagram.com/alejandro_romeroooo/){:target="_blank"} [LinkedIn](https://www.linkedin.com/in/alejandro-romero-6967562a5/){:target="_blank"}
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553926479601) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alejandro_romeroooo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-romero-6967562a5/)
 
 
 # 💻 Tecnologías que manejo:
