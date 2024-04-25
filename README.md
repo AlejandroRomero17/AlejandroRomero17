@@ -1,13 +1,13 @@
-<h1> Hey <img src="https://emojicdn.elk.sh/🇲🇽" width="20" />> What's up?</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Alejandro and I'm a JavaScript developer, from <img src="https://cdn-icons-png.flaticon.com/128/330/330432.png" width="17" /> <b>Puebla, México</b>. </p>
+<p> My name is Alejandro and I'm a JavaScript developer, from <img src="https://emojicdn.elk.sh/🇲🇽" width="20" /> <b>Puebla, México</b>. </p>
 
 ## About me
 
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
-- 🎯 Goals: live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- ✨ Creating bugs since 2022
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker NextJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+- 🎯 Goals: Become a proficient full-stack developer, crafting robust and scalable web applications that positively impact users 🌐💻
+- 🎲 Also... I constantly explore new technologies in both backend and frontend, seeking to enhance my skills and stay up-to-date with web development trends 🔄🔍
 
 ## I code with
 
@@ -28,3 +28,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+## Social Media
+
+## Social Media
+
+- Instagram: [alejandro_romeroooo](https://www.instagram.com/alejandro_romeroooo/) <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="20" />
+- Facebook: [Alejandro Romero](https://www.facebook.com/profile.php?id=61553926479601) <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="20" />
+- X: [XProfile](https://www.x.com/xprofile/) <img src="https://emojicdn.elk.sh/❌" width="20" />
