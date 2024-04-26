@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Creating bugs since 2022
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and <a href="https://nextjs.org" target="_blank">docker NextJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  /></a>
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and <a href="https://nextjs.org" target="_blank">NextJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  /></a>
 - 🎯 Goals: Become a proficient full-stack developer, crafting robust and scalable web applications that positively impact users 🌐💻
 - 🎲 Also... I constantly explore new technologies in both backend and frontend, seeking to enhance my skills and stay up-to-date with web development trends 🔄🔍
 
