@@ -57,4 +57,4 @@
 
 - Instagram: [alejandro_romeroooo](https://www.instagram.com/alejandro_romeroooo/) <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="20" />
 - Facebook: [Alejandro Romero](https://www.facebook.com/profile.php?id=61553926479601) <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="20" />
-- X: [XProfile](https://www.x.com/) <img src="https://emojicdn.elk.sh/❌" width="20" />
+- Gmail: [gonzalez.romero.alejandroo@gmail.com](mailto:gonzalez.romero.alejandroo@gmail.com) <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="20" />
