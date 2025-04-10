@@ -1,60 +1,41 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="center">Hey! 👋 I'm Alejandro</h1>
 
-<p> My name is Alejandro and I'm a JavaScript developer, from <img src="https://emojicdn.elk.sh/🇲🇽" width="20" /> <b>Puebla, México</b>. </p>
+<p align="center">
+  JavaScript Developer from 🇲🇽 <strong>Puebla, México</strong>
+</p>
 
-## About me
+---
 
-- ✨ Creating bugs since 2022
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and <a href="https://nextjs.org" target="_blank">NextJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  /></a>
-- 🎯 Goals: Become a proficient full-stack developer, crafting robust and scalable web applications that positively impact users 🌐💻
-- 🎲 Also... I constantly explore new technologies in both backend and frontend, seeking to enhance my skills and stay up-to-date with web development trends 🔄🔍
+## 👨‍💻 About Me
 
-## I code with
+- 🐞 Debugging since **2022**
+- 📚 Currently learning **English** and mastering **Next.js**
+- 🎯 My goal is to become a **full-stack developer** who builds scalable and impactful web apps
+- 🚀 Passionate about learning new technologies and improving every day
 
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://react.dev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://storybook.js.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://nestjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://docs.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  </a>
-</div>
+---
 
-## Social Media
+## 🛠️ Tech Stack
 
-- Instagram: [alejandro_romeroooo](https://www.instagram.com/alejandro_romeroooo/) <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="20" />
-- Facebook: [Alejandro Romero](https://www.facebook.com/profile.php?id=61553926479601) <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="20" />
-- Gmail: [gonzalez.romero.alejandroo@gmail.com](mailto:gonzalez.romero.alejandroo@gmail.com) <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="20" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+---
+
+## 📬 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/@alejandro_romeroooo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejandro_romeroooo/)
+[![Facebook](https://img.shields.io/badge/Alejandro_Romero-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553926479601)
+[![Gmail](https://img.shields.io/badge/gonzalez.romero.alejandroo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalez.romero.alejandroo@gmail.com)
+
+---
+
+⭐️ _"Stay curious, keep building."_
